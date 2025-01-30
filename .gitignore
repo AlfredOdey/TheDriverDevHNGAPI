@@ -1,0 +1,10 @@
+﻿# Ignore these files and folders
+bin/
+obj/
+.vs/
+Properties/
+launchSettings.json
+appsettings.json
+appsettings.Development.json
+*.csproj.user
+*.http
