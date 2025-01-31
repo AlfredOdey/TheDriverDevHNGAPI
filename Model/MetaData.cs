@@ -1,4 +1,4 @@
-﻿namespace TheDriverDevHNGAPI
+﻿namespace TheDriverDevHNGAPI.Model
 {
     public class MetaData
     {
