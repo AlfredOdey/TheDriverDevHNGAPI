@@ -12,9 +12,9 @@ namespace TheDriverDevHNGAPI.Controllers
         {
             var response = new
             {
-                Email = "alfredmodey@gmail.com",
-                Current_DateTime = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
-                GitHub_URL = "https://github.com/AlfredOdey/TheDriverDevHNGAPI"
+                email = "alfredmodey@gmail.com",
+                current_datetime = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
+                github_url = "https://github.com/AlfredOdey/TheDriverDevHNGAPI"
             };
 
             return Ok(response);

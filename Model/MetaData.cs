@@ -2,8 +2,8 @@
 {
     public class MetaData
     {
-        public string? Email { get; set; }
-        public DateTime Current_DateTime { get; set; }
-        public string? GitHub_URL { get; set; }
+        public string? email { get; set; }
+        public DateTime current_datetime { get; set; }
+        public string? github_url { get; set; }
     }
 }
