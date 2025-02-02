@@ -14,7 +14,7 @@ namespace TheDriverDevHNGAPI.Controllers
             {
                 email = "alfredmodey@gmail.com",
                 current_datetime = DateTime.UtcNow.ToString("yyyy-MM-ddTHH:mm:ssZ"),
-                github_url = "https://github.com/AlfredOdey/TheDriverDevHNGAPI"
+                github_url = "https://github.com/thedriverdev/TheDriverDevHNGAPI"
             };
 
             return Ok(response);
