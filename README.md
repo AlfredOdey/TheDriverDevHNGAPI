@@ -64,7 +64,7 @@ Access the API using a browser or any HTTP client like Postman.
 ## Links
 
 * Live API: http://thedriverdev-001-site1.anytempurl.com/api/MetaData
-* GitHub Repo: https://github.com/AlfredOdey/TheDriverDevHNGAPI
+* GitHub Repo: https://github.com/thedriverdev/TheDriverDevHNGAPI
 * HNG Backend Devlopers (C#): https://hng.tech/hire/csharp-developers
 
 ## Author
